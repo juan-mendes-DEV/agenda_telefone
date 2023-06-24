@@ -18,6 +18,7 @@ h1{
     
 }
 #formC input{
+    width: 180px;
     border: none;
     border-radius: 10px;
     padding: 5px;
@@ -31,7 +32,7 @@ h1{
     border: none;
     border-radius: 10px;
     width: 180px;
-    margin-top: 2px;
+    
 }
 #formC{
     background-color: rgb(114, 175, 170);
